@@ -2,6 +2,10 @@
   "name": "ledger-highlight",
   "displayName": "ledger-highlight",
   "description": "Syntax highlight for Ledger files",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgzlopes/vscode-ledger-highlight"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.100.0"
