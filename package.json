@@ -2,6 +2,8 @@
   "name": "ledger-highlight",
   "displayName": "ledger-highlight",
   "description": "Syntax highlight for Ledger files",
+  "publisher": "dgzlopes",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/dgzlopes/vscode-ledger-highlight"
